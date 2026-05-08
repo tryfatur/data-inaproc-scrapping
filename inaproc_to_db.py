@@ -21,7 +21,7 @@ DB_HOST = "localhost"
 DB_PORT = 5432
 DB_NAME = "inaproc"
 DB_USER = "tryfatur"
-DB_PASSWORD = "@Dmin123!"
+DB_PASSWORD = "******"
 
 DB_SCHEMA = "tender"
 DB_TABLE = "details"
